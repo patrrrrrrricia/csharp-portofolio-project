@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CautareBinara
 {
-    //------------------------------ CAUTARE BINARĂ - LEONTE PATRICIA ------------------------------
+    //------------------------------ CAUTARE BINARĂ - LEONTE PATRICIA - MIRABELA ------------------------------
     class Program
     {
         static Random r;
