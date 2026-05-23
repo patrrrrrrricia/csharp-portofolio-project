@@ -32,7 +32,7 @@ A lightweight C# Windows Forms application that brings static UI elements to lif
 
 ---
 
-## 🚀 Visual Demonstration
+## Visual Demonstration
 | Idle State | Hover State |
 | :---: | :---: |
 | <img width="791" height="918" alt="image" src="https://github.com/user-attachments/assets/d05b7937-2331-499d-a53c-e3aaaa4539a0" /> | <img width="787" height="918" alt="image" src="https://github.com/user-attachments/assets/225aeb3b-3b13-4ba0-832b-9f6c83f26eee" />|
