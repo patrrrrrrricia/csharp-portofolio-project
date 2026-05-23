@@ -54,4 +54,4 @@ A lightweight and intuitive desktop application designed for seamless image brow
 
 ---
 
-© 2023 Photo Gallery Viewer | Developed by [**𝐋𝐞𝐨𝐧𝐭𝐞 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚-𝐌𝐢𝐫𝐚𝐛𝐞𝐥ā**](https://patrrrrrrricia.github.io/glowing-button/)
+© 2023 Photo Gallery Viewer | Developed by [**𝐋𝐞𝐨𝐧𝐭𝐞 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚-𝐌𝐢𝐫𝐚𝐛𝐞𝐥𝐚**](https://patrrrrrrricia.github.io/glowing-button/)
