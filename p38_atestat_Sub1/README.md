@@ -36,7 +36,7 @@ A robust desktop application developed in **C# Windows Forms** for managing cine
 ## Visual Demonstration
 | Cinema Database Manager |
 | :---: |
-| <img width="1101" height="1011" alt="image" src="https://github.com/user-attachments/assets/1eb04172-5865-4be9-8dd2-128d9af718bc" /> |
+| <img width="600" src="https://github.com/user-attachments/assets/1eb04172-5865-4be9-8dd2-128d9af718bc" /> |
 
 ---
 
