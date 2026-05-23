@@ -1,4 +1,4 @@
-# CSharp Portofolio Project - 12th Grade
+# C# Portofolio Project - 12th Grade
 
 ## 💻 Overview
 A final-year project developed during the **12th grade**. This work represents the synthesis of knowledge acquired throughout high school, focusing on the development of functional applications while emphasizing algorithmic accuracy and logical data structuring.
