@@ -32,7 +32,7 @@ A streamlined desktop utility for managing student information. Built with **C# 
 ---
 
 ## Visual Demonstration
-| Input & Controls |
+| Database |
 | :---: |
 | <img width="848" height="634" alt="image" src="https://github.com/user-attachments/assets/0ae1dc9b-c6df-472d-bf34-3bf8d07562ad" /> |
 
@@ -46,4 +46,4 @@ A streamlined desktop utility for managing student information. Built with **C# 
 
 ---
 
-© 2026 Student Database Platform | Developed by [**𝐋𝐞𝐨𝐧𝐭𝐞 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚-𝐌𝐢𝐫𝐚𝐛𝐞𝐥ā**](https://patrrrrrrricia.github.io/glowing-button/)
+© 2023 Student Database Platform | Developed by [**𝐋𝐞𝐨𝐧𝐭𝐞 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚-𝐌𝐢𝐫𝐚𝐛𝐞𝐥𝐚**](https://patrrrrrrricia.github.io/glowing-button/)
