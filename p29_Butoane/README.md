@@ -42,4 +42,4 @@ A minimalist C# Windows Forms application that showcases dynamic UI state manage
 
 ---
 
-© 2023 Toggle State Button | Developed by [**𝐋𝐞𝐨𝐧𝐭𝐞 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚-𝐌𝐢𝐫𝐚𝐛𝐞𝐥ā**](https://patrrrrrrricia.github.io/glowing-button/)
+© 2023 Toggle State Button | Developed by [**𝐋𝐞𝐨𝐧𝐭𝐞 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚-𝐌𝐢𝐫𝐚𝐛𝐞𝐥𝐚**](https://patrrrrrrricia.github.io/glowing-button/)
