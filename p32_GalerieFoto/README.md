@@ -37,6 +37,16 @@ A lightweight and intuitive desktop application designed for seamless image brow
 
 ---
 
+### Visual Documentation
+
+| 1 | 2 | 3 |
+| :---: | :---: | :---: |
+| <img width="150" src="https://github.com/user-attachments/assets/e31fe717-0b8f-480b-8fcb-24ddaea8358b" /> | <img width="150" src="https://github.com/user-attachments/assets/5767450e-c02d-481c-b2ea-1715989648c3" /> | <img width="150" src="https://github.com/user-attachments/assets/f32be469-75ed-4b00-84bf-54d0eb1aa68a" /> |
+| 4 | 5 | 6 |
+| <img width="150" src="https://github.com/user-attachments/assets/565c1515-7805-441a-aeae-cfc9c1cbbaa6" /> | <img width="150" src="https://github.com/user-attachments/assets/5c5342d8-3fd7-4f93-a51d-4b14c8dc4684" /> | <img width="150" src="https://github.com/user-attachments/assets/0831b3d4-dc79-4ece-a3c1-fa70bf770c3c" /> |
+
+---
+
 ## How to Run
 1. **Prepare Assets:** Place your images inside a folder named `Foto` located in the same directory as the executable.
 2. **Launch:** Run the application.
