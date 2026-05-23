@@ -34,7 +34,7 @@ A streamlined desktop utility for managing student information. Built with **C# 
 ## Visual Demonstration
 | Database |
 | :---: |
-| <img width="848" height="634" alt="image" src="https://github.com/user-attachments/assets/0ae1dc9b-c6df-472d-bf34-3bf8d07562ad" /> |
+| <img width="600" src="https://github.com/user-attachments/assets/0ae1dc9b-c6df-472d-bf34-3bf8d07562ad" /> |
 
 ---
 
