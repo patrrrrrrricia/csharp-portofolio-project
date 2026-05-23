@@ -34,8 +34,6 @@ A minimalist C# Windows Forms application that showcases dynamic UI state manage
 | :---: | :---: |
 | <img width="751" height="689" alt="image" src="https://github.com/user-attachments/assets/0ac6d16d-cbb0-47db-8e1e-bd85f145bd40" /> | <img width="747" height="690" alt="image" src="https://github.com/user-attachments/assets/7b6ffba8-61b6-46cb-b9cb-f49b8c6e6ebd" /> |
 
-*(Replace with your actual GitHub image URLs from the screenshots provided)*
-
 ---
 
 ## How to Run
