@@ -1,11 +1,11 @@
 # Toggle State Button
 
-## 💻 Overview
+## Overview
 A minimalist C# Windows Forms application that showcases dynamic UI state management. This project implements a **conditional text-toggle interface**, where a single button dynamically switches its label content upon user interaction. It is a fundamental study in event handling and property manipulation in Windows Forms.
 
 ---
 
-## 🤍 Tech Stack
+## Tech Stack
 * **Language:** C#
 * **Framework:** .NET Framework / Windows Forms (WinForms)
 * **Core Concepts:** Event Handling, Boolean Logic, Property State Management
@@ -16,14 +16,14 @@ A minimalist C# Windows Forms application that showcases dynamic UI state manage
 
 ---
 
-## 🎀 Core Functionality
+## Core Functionality
 * **Dynamic Label Switching:** Utilizes a conditional `if-else` statement to toggle the `Text` property of the button between "Aici" and "Apasa aici" with every click.
 * **Responsive Interaction:** Provides immediate visual feedback, transforming the button's interface dynamically based on user input.
 * **Lightweight Architecture:** Highly optimized code structure focusing on direct UI property manipulation without unnecessary overhead.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 * **`Form1.cs`**: Contains the event-driven logic for the button's interaction.
 * **`ButtonAfisare_Click`**: The primary event handler that detects the click action and evaluates the current state of the button to apply the transition.
 
