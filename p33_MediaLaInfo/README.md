@@ -1,11 +1,11 @@
 # Media Calculator
 
-## 💻 Overview
+## Overview
 A precise academic tool designed to streamline the calculation of grade point averages. Built with **C# Windows Forms**, this application performs real-time parsing and statistical analysis of input grades. It ensures data integrity through strict input validation, providing an efficient experience for students and educators alike.
 
 ---
 
-## 🤍 Tech Stack
+## Tech Stack
 * **Language:** C#
 * **Framework:** .NET Framework / Windows Forms (WinForms)
 * **Core Concepts:** String Parsing, Algorithmic Validation, Real-time Event Handling
@@ -16,7 +16,7 @@ A precise academic tool designed to streamline the calculation of grade point av
 
 ---
 
-## 🎀 Core Functionality
+## Core Functionality
 * **Real-time Processing:** Automatically calculates the average as the user inputs grades, thanks to the `TextChanged` event trigger.
 * **Intelligent Validation:** * **Character Filtering:** Rejects non-numeric input to maintain data accuracy.
     * **Grade Logic:** Implements specific rules to recognize "10" correctly while preventing erroneous grade entries.
@@ -25,7 +25,7 @@ A precise academic tool designed to streamline the calculation of grade point av
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 * **`Form1.cs`**: Contains the core UI interaction logic and event listeners.
 * **`textBoxNote_TextChanged`**: The primary event handler that triggers validation and calculation whenever data is updated.
 * **`EvalMedia()`**: The core algorithmic method responsible for parsing the grade sequence and calculating the statistical mean.
