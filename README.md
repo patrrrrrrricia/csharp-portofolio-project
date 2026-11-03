@@ -1,11 +1,11 @@
 # C# Portofolio Project
 
-## 💻 Overview
+## Overview
 A final-year project developed during the **12th grade**. This work represents the synthesis of knowledge acquired throughout high school, focusing on the development of functional applications while emphasizing algorithmic accuracy and logical data structuring.
 
 ---
 
-## 🤍 Tech Stack
+## Tech Stack
 * **Language:** C#
 * **Tools:** Visual Studio
 
