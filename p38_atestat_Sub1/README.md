@@ -1,11 +1,11 @@
 # Cinema Database Manager
 
-## 💻 Overview
+## Overview
 A robust desktop application developed in **C# Windows Forms** for managing cinematic data. This project bridges the gap between a user-friendly interface and a back-end SQL database, enabling seamless CRUD operations (Create, Read) for film records. It serves as a practical implementation of **ADO.NET** for database connectivity and dynamic information retrieval.
 
 ---
 
-## 🤍 Tech Stack
+## Tech Stack
 * **Language:** C#
 * **Framework:** .NET Framework / Windows Forms (WinForms)
 * **Database:** Microsoft SQL Server (`cinema.mdf`)
@@ -17,7 +17,7 @@ A robust desktop application developed in **C# Windows Forms** for managing cine
 
 ---
 
-## 🎀 Core Functionality
+## Core Functionality
 * **Database Integration:** Utilizes `SqlConnection` and `SqlCommand` to perform live insertions into the `filme` table.
 * **Structured Data Entry:** Enables users to catalog movies by Title, Category, Lead Actor, and Revenue (Incasari).
 * **Dynamic Querying:** Supports search and filter operations based on specific criteria (Category/Actor), providing real-time data views.
@@ -25,7 +25,7 @@ A robust desktop application developed in **C# Windows Forms** for managing cine
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 * **`Form1.cs`**: Orchestrates the interaction between the GUI and the SQL database.
 * **`buttonAdauga_Click`**: The primary method that parses input data and executes the `INSERT` SQL command.
 * **`connString`**: Manages the connection to the local database instance (`cinema.mdf`).
