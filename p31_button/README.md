@@ -1,11 +1,11 @@
 # Interactive Image Switcher
 
-## 💻 Overview
+## Overview
 A lightweight C# Windows Forms application that brings static UI elements to life. This project implements an **event-driven interactive interface** where a button dynamically toggles between distinct floral compositions based on mouse focus. It serves as a study in real-time GUI manipulation and event handling.
 
 ---
 
-## 🤍 Tech Stack
+## Tech Stack
 * **Language:** C#
 * **Framework:** .NET Framework / Windows Forms (WinForms)
 * **Core Concepts:** Event-Driven Programming, Mouse Hover Logic, Image Streaming
@@ -16,7 +16,7 @@ A lightweight C# Windows Forms application that brings static UI elements to lif
 
 ---
 
-## 🎀 Core Functionality
+## Core Functionality
 * **Dynamic Hover Effects:** Utilizes `MouseEnter` and `MouseLeave` event triggers to swap background imagery in real-time.
 * **Layout Optimization:** Implements `ImageLayout.Stretch` to ensure high-fidelity image rendering within the button's bounds, regardless of aspect ratio.
 * **Intuitive Navigation:** Features an integrated "Exit" control for seamless application termination.
@@ -24,7 +24,7 @@ A lightweight C# Windows Forms application that brings static UI elements to lif
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 * **`Form1.cs`**: Orchestrates the UI logic and mouse event handlers.
 * **`ButtonImagine_MouseEnter`**: Triggers the transition to image `1.jpg` when the cursor enters the button area.
 * **`ButtonImagine_MouseLeave`**: Reverts the display to image `2.jpg` upon mouse exit.
