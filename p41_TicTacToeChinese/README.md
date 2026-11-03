@@ -1,11 +1,11 @@
-# Strategic Tic-Tac-Toe (Chinese Variation)
+# Tic-Tac-Toe (Chinese Variation)
 
-## 💻 Overview
+## Overview
 An advanced implementation in **C# Windows Forms** of a strategic "Tic-Tac-Toe" variant using pieces of varying sizes (Gobblet-style). Players place pieces of different sizes on a 3x3 grid, where larger pieces can capture/cover smaller ones. This adds an extra layer of tactical complexity compared to the classic game.
 
 ---
 
-## 🤍 Tech Stack
+## Tech Stack
 * **Language:** C#
 * **Framework:** .NET Framework / Windows Forms (WinForms)
 * **Core Concepts:** Game Matrices, Dynamic Event Handling, State Management
@@ -14,7 +14,7 @@ An advanced implementation in **C# Windows Forms** of a strategic "Tic-Tac-Toe" 
 
 ---
 
-## 🎀 Core Functionality
+## Core Functionality
 * **Dynamic Piece Management:** Interface allowing the selection of pieces with three different sizes (Small, Medium, Large) for both players (Green vs. Black).
 * **Game Logic (Engine):** Implemented via a dedicated `Matrice` class that validates moves, checks winning conditions, and detects draws.
 * **Visual Interaction:** Utilizes custom `Cursor` pointers to provide immediate visual feedback when a player "picks up" a piece to move it.
@@ -22,7 +22,7 @@ An advanced implementation in **C# Windows Forms** of a strategic "Tic-Tac-Toe" 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 * **`Form1.cs`**: Manages the UI, renders the game board (programmatically generated buttons), and handles the move flow.
 * **`Matrice.cs`**: The game's "brain"; contains the rules for placing pieces, checking winning lines, and tracking the current state of the board.
 * **`IncarcaImagini()`**: Method for loading graphical resources (images for each piece size).
@@ -46,4 +46,4 @@ An advanced implementation in **C# Windows Forms** of a strategic "Tic-Tac-Toe" 
 
 ---
 
-© 2023 Strategic Tic-Tac-Toe | Developed by [**𝐋𝐞𝐨𝐧𝐭𝐞 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚-𝐌𝐢𝐫𝐚𝐛𝐞𝐥𝐚**](https://patrrrrrrricia.github.io/glowing-button/)
+© 2023 Tic-Tac-Toe | Developed by [**𝐋𝐞𝐨𝐧𝐭𝐞 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚-𝐌𝐢𝐫𝐚𝐛𝐞𝐥𝐚**](https://patrrrrrrricia.github.io/glowing-button/)
