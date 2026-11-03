@@ -1,11 +1,11 @@
 # Database
 
-## 💻 Overview
+## Overview
 A streamlined desktop utility for managing student information. Built with **C# Windows Forms**, this application provides a centralized interface for creating and listing student records (name and age). It serves as a foundational system for data entry, storage, and real-time visualization, highlighting the power of simple CRUD-like workflows in local environments.
 
 ---
 
-## 🤍 Tech Stack
+## Tech Stack
 * **Language:** C#
 * **Framework:** .NET Framework / Windows Forms (WinForms)
 * **Core Concepts:** Data Binding, List Management, UI/UX Design
@@ -16,7 +16,7 @@ A streamlined desktop utility for managing student information. Built with **C# 
 
 ---
 
-## 🎀 Core Functionality
+## Core Functionality
 * **Record Creation:** Dedicated input fields for capturing student profiles (Nume elev, Varsta).
 * **Data Visualization:** An integrated list display ("Afișează înregistrări") that provides immediate visibility into the stored database entries.
 * **Streamlined Workflow:** One-click submission process via the "Adaugă" action button.
@@ -24,7 +24,7 @@ A streamlined desktop utility for managing student information. Built with **C# 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 * **`Form1.cs`**: Orchestrates the UI logic, handling user inputs, button events, and data list updates.
 * **`Program.cs`**: The main entry point that initializes the application environment and launches the main form.
 * **`Data Management Logic`**: Handles the collection and display of student records within the local interface.
