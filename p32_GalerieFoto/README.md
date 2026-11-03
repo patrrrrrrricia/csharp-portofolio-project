@@ -1,11 +1,11 @@
 # Photo Gallery Viewer
 
-## 💻 Overview
+## Overview
 A lightweight and intuitive desktop application designed for seamless image browsing. Built with **C# Windows Forms**, this gallery viewer provides an elegant interface for organizing and navigating through image collections. It emphasizes user experience through fluid navigation controls, automated directory scanning, and real-time indexing.
 
 ---
 
-## 🤍 Tech Stack
+## Tech Stack
 * **Language:** C#
 * **Framework:** .NET Framework / Windows Forms (WinForms)
 * **Design Pattern:** Event-Driven Programming
@@ -17,7 +17,7 @@ A lightweight and intuitive desktop application designed for seamless image brow
 
 ---
 
-## 🎀 Core Functionality
+## Core Functionality
 * **Dynamic Loading:** Automatically scans the local `/Foto` directory for `.jpg` files upon application launch.
 * **Navigation Engine:**
     * **Sequential Browsing:** Forward and backward navigation between images.
@@ -29,7 +29,7 @@ A lightweight and intuitive desktop application designed for seamless image brow
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 * **`Form1.cs`**: Contains the core logic for the application, including directory traversal, event handling, and UI state synchronization.
 * **`/Foto`**: Local directory for storing image assets.
 * **`LoadImages()`**: Initialization method for file system verification and image caching into memory.
