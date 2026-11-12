@@ -11,9 +11,9 @@ A lightweight and intuitive desktop application designed for seamless image brow
 * **Design Pattern:** Event-Driven Programming
 * **IO:** System.IO (File System manipulation)
 
-![C#](https://img.shields.io/badge/C%23-Language-%23FF69B4.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-WinForms-%23FF69B4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-Language-ECCACB.svg?style=for-the-badge&logo=csharp&logoColor=3B3B3B) ![.NET](https://img.shields.io/badge/.NET-WinForms-ECCACB.svg?style=for-the-badge&logo=dotnet&logoColor=3B3B3B)
 
-![System.IO](https://img.shields.io/badge/IO-File_Handling-%234F4F4F.svg?style=for-the-badge&logo=databricks&logoColor=white) ![UI/UX](https://img.shields.io/badge/UI-WinForms-%23333333.svg?style=for-the-badge)
+![System.IO](https://img.shields.io/badge/IO-File_Handling-3B3B3B.svg?style=for-the-badge&logo=databricks&logoColor=FCFAFA) ![UI/UX](https://img.shields.io/badge/UI-WinForms-3B3B3B.svg?style=for-the-badge&logoColor=FCFAFA)
 
 ---
 
