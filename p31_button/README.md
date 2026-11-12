@@ -9,10 +9,10 @@ A lightweight C# Windows Forms application that brings static UI elements to lif
 * **Language:** C#
 * **Framework:** .NET Framework / Windows Forms (WinForms)
 * **Core Concepts:** Event-Driven Programming, Mouse Hover Logic, Image Streaming
+  
+![C#](https://img.shields.io/badge/C%23-Language-ECCACB.svg?style=for-the-badge&logo=csharp&logoColor=3B3B3B) ![.NET](https://img.shields.io/badge/.NET-WinForms-ECCACB.svg?style=for-the-badge&logo=dotnet&logoColor=3B3B3B)
 
-![C#](https://img.shields.io/badge/C%23-Language-%23FF69B4.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-WinForms-%23FF69B4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-
-![UI/UX](https://img.shields.io/badge/UI-Interactive-%234F4F4F.svg?style=for-the-badge) ![Event-Driven](https://img.shields.io/badge/Event-Driven-%23333333.svg?style=for-the-badge)
+![UI/UX](https://img.shields.io/badge/UI-Interactive-3B3B3B.svg?style=for-the-badge&logoColor=FCFAFA) ![Event-Driven](https://img.shields.io/badge/Event-Driven-3B3B3B.svg?style=for-the-badge&logoColor=FCFAFA)
 
 ---
 
