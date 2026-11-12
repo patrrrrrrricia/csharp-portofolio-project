@@ -9,10 +9,10 @@ A streamlined desktop utility for managing student information. Built with **C# 
 * **Language:** C#
 * **Framework:** .NET Framework / Windows Forms (WinForms)
 * **Core Concepts:** Data Binding, List Management, UI/UX Design
+  
+![C#](https://img.shields.io/badge/C%23-Language-ECCACB.svg?style=for-the-badge&logo=csharp&logoColor=3B3B3B) ![.NET](https://img.shields.io/badge/.NET-WinForms-ECCACB.svg?style=for-the-badge&logo=dotnet&logoColor=3B3B3B)
 
-![C#](https://img.shields.io/badge/C%23-Language-%23FF69B4.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-WinForms-%23FF69B4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-
-![Data Entry](https://img.shields.io/badge/Data-Management-%234F4F4F.svg?style=for-the-badge) ![UI/UX](https://img.shields.io/badge/UI-WinForms-%23333333.svg?style=for-the-badge)
+![Data Entry](https://img.shields.io/badge/Data-Management-3B3B3B.svg?style=for-the-badge&logoColor=FCFAFA) ![UI/UX](https://img.shields.io/badge/UI-WinForms-3B3B3B.svg?style=for-the-badge&logoColor=FCFAFA)
 
 ---
 
