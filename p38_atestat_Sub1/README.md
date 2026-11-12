@@ -10,10 +10,10 @@ A robust desktop application developed in **C# Windows Forms** for managing cine
 * **Framework:** .NET Framework / Windows Forms (WinForms)
 * **Database:** Microsoft SQL Server (`cinema.mdf`)
 * **Data Access:** ADO.NET (`System.Data.SqlClient`)
+  
+![C#](https://img.shields.io/badge/C%23-Language-ECCACB.svg?style=for-the-badge&logo=csharp&logoColor=3B3B3B) ![SQL](https://img.shields.io/badge/SQL-Database-ECCACB.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=3B3B3B)
 
-![C#](https://img.shields.io/badge/C%23-Language-%23FF69B4.svg?style=for-the-badge&logo=csharp&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-Database-%23FF69B4.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-![Backend](https://img.shields.io/badge/ADO.NET-Data_Access-%234F4F4F.svg?style=for-the-badge) ![UI/UX](https://img.shields.io/badge/UI-WinForms-%23333333.svg?style=for-the-badge)
+![Backend](https://img.shields.io/badge/ADO.NET-Data_Access-3B3B3B.svg?style=for-the-badge&logoColor=FCFAFA) ![UI/UX](https://img.shields.io/badge/UI-WinForms-3B3B3B.svg?style=for-the-badge&logoColor=FCFAFA)
 
 ---
 
