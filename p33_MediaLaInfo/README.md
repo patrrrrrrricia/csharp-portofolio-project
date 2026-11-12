@@ -10,9 +10,9 @@ A precise academic tool designed to streamline the calculation of grade point av
 * **Framework:** .NET Framework / Windows Forms (WinForms)
 * **Core Concepts:** String Parsing, Algorithmic Validation, Real-time Event Handling
 
-![C#](https://img.shields.io/badge/C%23-Language-%23FF69B4.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-WinForms-%23FF69B4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-Language-ECCACB.svg?style=for-the-badge&logo=csharp&logoColor=3B3B3B) ![.NET](https://img.shields.io/badge/.NET-WinForms-ECCACB.svg?style=for-the-badge&logo=dotnet&logoColor=3B3B3B)
 
-![Data Processing](https://img.shields.io/badge/Data-Processing-%234F4F4F.svg?style=for-the-badge) ![Logic](https://img.shields.io/badge/Algorithm-Validation-%23333333.svg?style=for-the-badge)
+![Data Processing](https://img.shields.io/badge/Data-Processing-3B3B3B.svg?style=for-the-badge&logoColor=FCFAFA) ![Logic](https://img.shields.io/badge/Algorithm-Validation-3B3B3B.svg?style=for-the-badge&logoColor=FCFAFA)
 
 ---
 
