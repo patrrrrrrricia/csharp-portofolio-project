@@ -10,7 +10,7 @@ An advanced implementation in **C# Windows Forms** of a strategic "Tic-Tac-Toe" 
 * **Framework:** .NET Framework / Windows Forms (WinForms)
 * **Core Concepts:** Game Matrices, Dynamic Event Handling, State Management
 
-![C#](https://img.shields.io/badge/C%23-Language-%23FF69B4.svg?style=for-the-badge&logo=csharp&logoColor=white) ![UI/UX](https://img.shields.io/badge/UI-WinForms-%23333333.svg?style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-Language-ECCACB.svg?style=for-the-badge&logo=csharp&logoColor=3B3B3B) ![UI/UX](https://img.shields.io/badge/UI-WinForms-3B3B3B.svg?style=for-the-badge&logoColor=FCFAFA)
 
 ---
 
